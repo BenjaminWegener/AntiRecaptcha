@@ -1,4 +1,18 @@
 security risks for online services by relying on reCAPTCHA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Benjamin Wegener - <info[at]wegeneredv[dot]de>
 October 22, 2010
 revised version October 27, 2010
